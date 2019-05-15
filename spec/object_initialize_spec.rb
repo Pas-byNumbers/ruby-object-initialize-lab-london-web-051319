@@ -22,6 +22,7 @@ it 'defaults the breed argument to "Mutt" in an instance variable @breed' do
     end
   end
 end
+
     it 'sets the breed of the dog in an instance variable @breed' do
       fido = Dog.new("Fido", "Pug")
 
