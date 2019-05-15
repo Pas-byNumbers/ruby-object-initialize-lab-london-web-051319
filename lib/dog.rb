@@ -6,6 +6,6 @@ class Dog
     
   end
   
-   
+   learn submit_tag
   
 end
